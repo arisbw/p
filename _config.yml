@@ -42,6 +42,7 @@ minima:
     twitter: arisbw
     github: arisbw
     linkedin: arisbw
+    # stackoverflow: "14472314"
 
 # Set this to true to get LaTeX math equation support
 use_math: True
